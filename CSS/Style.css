@@ -57,7 +57,7 @@ section {
 .image-container img {
   display: block;
   width: 100%; /* ensures responsiveness */
-  height: auto;
+  height: 90vh;
 }
 
 .overlay-text {
